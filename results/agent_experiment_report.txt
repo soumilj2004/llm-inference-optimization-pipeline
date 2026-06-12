@@ -1,0 +1,11 @@
+Agentic LLM Compression Lab - Experiment Report
+
+Methods evaluated:
+- fp32: latency=4.478s, throughput=2.6798 tok/s, quality=1.0, RAM delta=677.98 MB
+- pruned: latency=0.7381s, throughput=1.3548 tok/s, quality=0.0572, RAM delta=0.0 MB
+
+Fastest method: pruned
+Smallest method by model-load RAM delta: pruned
+Best throughput: fp32
+Best quality: fp32
+Best overall tradeoff: pruned

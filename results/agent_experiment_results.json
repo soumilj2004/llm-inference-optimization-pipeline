@@ -1,0 +1,216 @@
+[
+  {
+    "timestamp_utc": "2026-06-12T12:26:21.495875+00:00",
+    "method": "fp32",
+    "status": "completed",
+    "error": null,
+    "description": "Uncompressed FP32 reference model",
+    "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "prompt": "What is machine learning?",
+    "response": "How does it work, and what are its applications?",
+    "device": "cpu",
+    "parameter_count": 1100048384,
+    "ram_usage_before_model_load_mb": 408.14,
+    "ram_usage_after_model_load_mb": 1086.12,
+    "model_load_ram_delta_mb": 677.98,
+    "inference_latency_seconds": 4.478,
+    "input_token_count": 6,
+    "generated_token_count": 12,
+    "tokens_per_second": 2.6798,
+    "quality_score": 1.0,
+    "quality_prompt_count": 12,
+    "quality_prompt_scores": [
+      {
+        "id": "quality_001",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.8500000000000001,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_002",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_003",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 1.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_004",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_005",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_006",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_007",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_008",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_009",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_010",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_011",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      },
+      {
+        "id": "quality_012",
+        "similarity_score": 1.0,
+        "length_score": 1.0,
+        "completeness_score": 0.0,
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "timestamp_utc": "2026-06-12T12:29:33.471544+00:00",
+    "method": "pruned",
+    "status": "completed",
+    "error": null,
+    "description": "Unstructured magnitude-pruned model",
+    "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    "prompt": "What is machine learning?",
+    "response": "",
+    "device": "cpu",
+    "parameter_count": 1100048384,
+    "ram_usage_before_model_load_mb": 4185.96,
+    "ram_usage_after_model_load_mb": 1368.65,
+    "model_load_ram_delta_mb": 0.0,
+    "inference_latency_seconds": 0.7381,
+    "input_token_count": 6,
+    "generated_token_count": 1,
+    "tokens_per_second": 1.3548,
+    "quality_score": 0.0572,
+    "quality_prompt_count": 12,
+    "quality_prompt_scores": [
+      {
+        "id": "quality_001",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_002",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_003",
+        "similarity_score": 0.516,
+        "length_score": 0.9067,
+        "completeness_score": 1.0,
+        "quality_score": 0.6862
+      },
+      {
+        "id": "quality_004",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_005",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_006",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_007",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_008",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_009",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_010",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_011",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      },
+      {
+        "id": "quality_012",
+        "similarity_score": 0.0,
+        "length_score": 0.0,
+        "completeness_score": 0.0,
+        "quality_score": 0.0
+      }
+    ]
+  }
+]

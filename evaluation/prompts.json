@@ -1,0 +1,50 @@
+[
+  {
+    "id": "quality_001",
+    "text": "What is machine learning?"
+  },
+  {
+    "id": "quality_002",
+    "text": "Explain the difference between latency and throughput in LLM inference."
+  },
+  {
+    "id": "quality_003",
+    "text": "Summarize why model compression is useful for deploying language models."
+  },
+  {
+    "id": "quality_004",
+    "text": "Give three examples of tasks a chatbot can help with."
+  },
+  {
+    "id": "quality_005",
+    "text": "What is quantization in the context of neural networks?"
+  },
+  {
+    "id": "quality_006",
+    "text": "Write a short explanation of pruning in machine learning."
+  },
+  {
+    "id": "quality_007",
+    "text": "Why can smaller models be easier to run on edge devices?"
+  },
+  {
+    "id": "quality_008",
+    "text": "Describe one tradeoff between model speed and model quality."
+  },
+  {
+    "id": "quality_009",
+    "text": "What does it mean for a benchmark to be reproducible?"
+  },
+  {
+    "id": "quality_010",
+    "text": "Explain GPU memory usage in simple terms."
+  },
+  {
+    "id": "quality_011",
+    "text": "Give a concise checklist for evaluating a compressed language model."
+  },
+  {
+    "id": "quality_012",
+    "text": "What is the purpose of using a baseline model in an experiment?"
+  }
+]
