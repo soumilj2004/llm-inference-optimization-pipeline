@@ -187,41 +187,38 @@ agentic-llm-compression-lab/
 
 ## 1. Dashboard Overview
 
-> Insert Screenshot 1 Here
 
-![Overview Screenshot](images/dashboard_overview.png)
+<img width="1382" height="508" alt="image" src="https://github.com/user-attachments/assets/99b50ee5-ef5a-426d-8e06-ea3b009d7c1f" />
+
 
 ---
 
 ## 2. Run Experiment Page
 
-> Insert Screenshot 2 Here
 
-![Run Experiment Screenshot](images/run_experiment.png)
+<img width="1207" height="491" alt="image" src="https://github.com/user-attachments/assets/36816090-431c-4429-9848-601a3b1fad97" />
+
 
 ---
 
 ## 3. Results Page
 
-> Insert Screenshot 3 Here
 
-![Results Screenshot](images/results.png)
+<img width="1207" height="491" alt="image" src="https://github.com/user-attachments/assets/81776862-66f0-4092-a23d-899a7dbcb479" />
+
 
 ---
 
 ## 4. Visualizations Page
 
-> Insert Screenshot 4 Here
-
-![Visualizations Screenshot](images/visualizations.png)
+<img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/dbb3d53c-4c67-473b-9e55-95eab9af3c0b" />
 
 ---
 
 ## 5. Agent Workflow Page
 
-> Insert Screenshot 5 Here
+<img width="446" height="339" alt="image" src="https://github.com/user-attachments/assets/adf74a9a-d8a9-4f22-b4f7-dea0a65498c3" />
 
-![Workflow Screenshot](images/agent_workflow.png)
 
 ---
 
